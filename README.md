@@ -1,4 +1,5 @@
 # Toaster Oven by Matt Acosta
+Makes a toaster oven simulation that has basic funtions on a PIC32 controller
 
 ## File Directory Tree
 
@@ -17,7 +18,7 @@ functions in Buttons.h and Adc.h
 
 ## Writeup
 
-I used finite state machines in order to implement a toaster over on the microcontroller. I did this in order to understand how to program reactive systems. When Approaching this task I started by declaring my macros, static variables, and such so I know what I needed to use. After that I tackled the print statements. I ended up using a lot of switch statements to do most of my code so I just used the switches in order to do what my function needed. The extra credit was the second to last step and I used a simple ternary operator and called it a day. I finally did the Leds.h file last not for any specific reason, I just forgot that we had to edit the file so last minute I had to make those edits in order for the leds to turn on. All and all, I am happy how everything turned out for me. Everything works well I just wish I started earlier. The content presented to us was very useful for learning finite state machines and I found the material worthwhile to learn.
+I used finite state machines in order to implement a toaster over on the microcontroller. I did this in order to understand how to program reactive systems. When Approaching this task I started by declaring my macros, static variables, and such so I know what I needed to use. After that I tackled the print statements. I ended up using a lot of switch statements to do most of my code so I just used the switches in order to do what my function needed. I finally did the Leds.h file last not for any specific reason, I just forgot to edit the file so last minute I had to make those edits in order for the leds to turn on. All and all, I am happy how everything turned out for me. Everything works well I just wish I did my implementation better.
 
 ## Sources Cited
 
